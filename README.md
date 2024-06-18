@@ -23,4 +23,4 @@ Hi guys! My name is Weslley Batista, I'm student of analysis and systems develop
 
 ##Minhas Contribuições
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=weslleyqueiroz&repo=dio-lab-open-source-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=FF0000&text_color=FFF)](https://github.com/Weslleyqueiroz/dio-lab-open-source)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=weslleyqueiroz&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=FF0000&text_color=FFF)](https://github.com/Weslleyqueiroz/dio-lab-open-source.git)
